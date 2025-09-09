@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I am Dixit from Sidhpur, Gujarat, <br>I have in short time complete Computer Engineering in Diploma at KD Polytechnic, Patan. <br>As a passionate FrontEnd Developer and UI Designer , I specialize in various web technologies such as React Js, HTML5, CSS3, JavaScript, Tailwind CSS, API, MongoDB, and more. 
+Hello, I am Dixit from Sidhpur, Gujarat, <br>. <br>As a passionate FrontEnd Developer and UI Designer , I specialize in various web technologies such as React Js, HTML5, CSS3, JavaScript, Tailwind CSS, API, MongoDB, and more. 
 
 
 ## 🌐 Socials:
